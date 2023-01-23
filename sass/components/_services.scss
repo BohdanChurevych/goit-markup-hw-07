@@ -1,0 +1,11 @@
+.services {
+  padding-top: 0;
+}
+
+.services-list {
+  display: flex;
+}
+
+.services-list__item + .services-list__item {
+  margin-left: 30px;
+}
